@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\bin\Debug\Library.accdb
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\bin\Debug\Library Mangment System.exe.config
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\bin\Debug\Library Mangment System.exe
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\bin\Debug\Library Mangment System.pdb
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library Mangment System.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library_Mangment_System.Properties.Resources.resources
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library Mangment System.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library Mangment System.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library Mangment System.exe
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library Mangment System.pdb
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library_Mangment_System.Form1.resources
+C:\Users\Owner\source\repos\Library Mangment System\Library Mangment System\obj\Debug\Library_Mangment_System.login.resources
